@@ -1,0 +1,2 @@
+C:/Users/hp/OneDrive/Desktop/OtherFiles/git/assign/basic_quix_flutterApp-master/android/app/.cxx/Debug/5x1a2z4f/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/hp/OneDrive/Desktop/OtherFiles/git/assign/basic_quix_flutterApp-master/android/app/.cxx/Debug/5x1a2z4f/armeabi-v7a/CMakeFiles/rebuild_cache.dir
